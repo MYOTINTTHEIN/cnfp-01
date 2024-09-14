@@ -1,2 +1,2 @@
 # cnfp-01
-cnfo 01
+cnfp 01
